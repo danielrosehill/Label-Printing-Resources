@@ -22,6 +22,10 @@ A curated index of open-source utilities, drivers, libraries, and bridges for la
 
 ## Brother
 
+> **Printer-compatibility badges** (best-effort, based on the upstream repo's stated/typical support):
+> ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb) — Brother P-touch family.
+> ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb) — applied to generic brother_ql-family libraries; verify in the upstream repo before assuming support for a specific model.
+
 ### lprint
 
 LPrint — a label printer application supporting many Brother, Dymo, Epson, and Zebra label printers via IPP Everywhere / AirPrint.
@@ -34,7 +38,7 @@ LPrint — a label printer application supporting many Brother, Dymo, Epson, and
 
 Web-based label printer interface for Brother QL series.
 
-![Stars](https://img.shields.io/github/stars/RamyTalal/Label-Printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/RamyTalal/Label-Printer?style=flat)
+![Stars](https://img.shields.io/github/stars/RamyTalal/Label-Printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/RamyTalal/Label-Printer?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [RamyTalal/Label-Printer](https://github.com/RamyTalal/Label-Printer)
 
@@ -42,7 +46,7 @@ Web-based label printer interface for Brother QL series.
 
 Web service to print labels on Brother QL label printers.
 
-![Stars](https://img.shields.io/github/stars/pklaus/brother_ql_web?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pklaus/brother_ql_web?style=flat)
+![Stars](https://img.shields.io/github/stars/pklaus/brother_ql_web?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pklaus/brother_ql_web?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [pklaus/brother_ql_web](https://github.com/pklaus/brother_ql_web)
 
@@ -50,7 +54,7 @@ Web service to print labels on Brother QL label printers.
 
 Node.js library for Brother label printers.
 
-![Stars](https://img.shields.io/github/stars/driehle/node-brother-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/driehle/node-brother-label-printer?style=flat)
+![Stars](https://img.shields.io/github/stars/driehle/node-brother-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/driehle/node-brother-label-printer?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [driehle/node-brother-label-printer](https://github.com/driehle/node-brother-label-printer)
 
@@ -58,7 +62,7 @@ Node.js library for Brother label printers.
 
 Brother QL label printer interface.
 
-![Stars](https://img.shields.io/github/stars/splitbrain/bql-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/splitbrain/bql-label-printer?style=flat)
+![Stars](https://img.shields.io/github/stars/splitbrain/bql-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/splitbrain/bql-label-printer?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [splitbrain/bql-label-printer](https://github.com/splitbrain/bql-label-printer)
 
@@ -66,7 +70,7 @@ Brother QL label printer interface.
 
 Reverse-engineered Brother P-touch Cube PT-P300BT label printer protocol.
 
-![Stars](https://img.shields.io/github/stars/Ircama/PT-P300BT?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Ircama/PT-P300BT?style=flat)
+![Stars](https://img.shields.io/github/stars/Ircama/PT-P300BT?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Ircama/PT-P300BT?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [Ircama/PT-P300BT](https://github.com/Ircama/PT-P300BT)
 
@@ -74,7 +78,7 @@ Reverse-engineered Brother P-touch Cube PT-P300BT label printer protocol.
 
 Alternative Node.js library for Brother label printers.
 
-![Stars](https://img.shields.io/github/stars/yiqun12/node-brother-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/yiqun12/node-brother-label-printer?style=flat)
+![Stars](https://img.shields.io/github/stars/yiqun12/node-brother-label-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/yiqun12/node-brother-label-printer?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [yiqun12/node-brother-label-printer](https://github.com/yiqun12/node-brother-label-printer)
 
@@ -82,7 +86,7 @@ Alternative Node.js library for Brother label printers.
 
 Python package for the raster language protocol of Brother QL label printers.
 
-![Stars](https://img.shields.io/github/stars/pklaus/brother_ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pklaus/brother_ql?style=flat)
+![Stars](https://img.shields.io/github/stars/pklaus/brother_ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pklaus/brother_ql?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [pklaus/brother_ql](https://github.com/pklaus/brother_ql)
 
@@ -90,7 +94,7 @@ Python package for the raster language protocol of Brother QL label printers.
 
 CLI tool for Brother P-touch label printers.
 
-![Stars](https://img.shields.io/github/stars/corvis/tapen?style=flat) ![Last commit](https://img.shields.io/github/last-commit/corvis/tapen?style=flat)
+![Stars](https://img.shields.io/github/stars/corvis/tapen?style=flat) ![Last commit](https://img.shields.io/github/last-commit/corvis/tapen?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [corvis/tapen](https://github.com/corvis/tapen)
 
@@ -98,7 +102,7 @@ CLI tool for Brother P-touch label printers.
 
 Brother QL label generator for Grocy.
 
-![Stars](https://img.shields.io/github/stars/sam159/brotherql_grocylabels?style=flat) ![Last commit](https://img.shields.io/github/last-commit/sam159/brotherql_grocylabels?style=flat)
+![Stars](https://img.shields.io/github/stars/sam159/brotherql_grocylabels?style=flat) ![Last commit](https://img.shields.io/github/last-commit/sam159/brotherql_grocylabels?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [sam159/brotherql_grocylabels](https://github.com/sam159/brotherql_grocylabels)
 
@@ -106,7 +110,7 @@ Brother QL label generator for Grocy.
 
 Command-line tool to print on Brother P-touch label printers on Linux.
 
-![Stars](https://img.shields.io/github/stars/EtherGraf/ptouch-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/EtherGraf/ptouch-print?style=flat)
+![Stars](https://img.shields.io/github/stars/EtherGraf/ptouch-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/EtherGraf/ptouch-print?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [EtherGraf/ptouch-print](https://github.com/EtherGraf/ptouch-print)
 
@@ -114,7 +118,7 @@ Command-line tool to print on Brother P-touch label printers on Linux.
 
 Driver/library for Brother P-touch printers.
 
-![Stars](https://img.shields.io/github/stars/treideme/brother_pt?style=flat) ![Last commit](https://img.shields.io/github/last-commit/treideme/brother_pt?style=flat)
+![Stars](https://img.shields.io/github/stars/treideme/brother_pt?style=flat) ![Last commit](https://img.shields.io/github/last-commit/treideme/brother_pt?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [treideme/brother_pt](https://github.com/treideme/brother_pt)
 
@@ -122,7 +126,7 @@ Driver/library for Brother P-touch printers.
 
 Brother QL label printer library.
 
-![Stars](https://img.shields.io/github/stars/vxel/brotherql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vxel/brotherql?style=flat)
+![Stars](https://img.shields.io/github/stars/vxel/brotherql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vxel/brotherql?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [vxel/brotherql](https://github.com/vxel/brotherql)
 
@@ -130,7 +134,7 @@ Brother QL label printer library.
 
 GUI front-end for Brother label printers.
 
-![Stars](https://img.shields.io/github/stars/danielrosehill/Brother-Label-Printer-GUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/Brother-Label-Printer-GUI?style=flat)
+![Stars](https://img.shields.io/github/stars/danielrosehill/Brother-Label-Printer-GUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/Brother-Label-Printer-GUI?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [danielrosehill/Brother-Label-Printer-GUI](https://github.com/danielrosehill/Brother-Label-Printer-GUI)
 
@@ -138,7 +142,7 @@ GUI front-end for Brother label printers.
 
 Brother P-touch label printer driver.
 
-![Stars](https://img.shields.io/github/stars/nbuchwitz/ptouch?style=flat) ![Last commit](https://img.shields.io/github/last-commit/nbuchwitz/ptouch?style=flat)
+![Stars](https://img.shields.io/github/stars/nbuchwitz/ptouch?style=flat) ![Last commit](https://img.shields.io/github/last-commit/nbuchwitz/ptouch?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [nbuchwitz/ptouch](https://github.com/nbuchwitz/ptouch)
 
@@ -146,7 +150,7 @@ Brother P-touch label printer driver.
 
 Fork/successor of brother_ql with continued maintenance.
 
-![Stars](https://img.shields.io/github/stars/matmair/brother_ql2?style=flat) ![Last commit](https://img.shields.io/github/last-commit/matmair/brother_ql2?style=flat)
+![Stars](https://img.shields.io/github/stars/matmair/brother_ql2?style=flat) ![Last commit](https://img.shields.io/github/last-commit/matmair/brother_ql2?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [matmair/brother_ql2](https://github.com/matmair/brother_ql2)
 
@@ -154,7 +158,7 @@ Fork/successor of brother_ql with continued maintenance.
 
 WebUSB-based printing for Brother QL label printers from the browser.
 
-![Stars](https://img.shields.io/github/stars/tylercrumpton/brotherql-webusb?style=flat) ![Last commit](https://img.shields.io/github/last-commit/tylercrumpton/brotherql-webusb?style=flat)
+![Stars](https://img.shields.io/github/stars/tylercrumpton/brotherql-webusb?style=flat) ![Last commit](https://img.shields.io/github/last-commit/tylercrumpton/brotherql-webusb?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [tylercrumpton/brotherql-webusb](https://github.com/tylercrumpton/brotherql-webusb)
 
@@ -162,7 +166,7 @@ WebUSB-based printing for Brother QL label printers from the browser.
 
 Brother P-touch label printer utility.
 
-![Stars](https://img.shields.io/github/stars/yoshinari-nomura/ptouch?style=flat) ![Last commit](https://img.shields.io/github/last-commit/yoshinari-nomura/ptouch?style=flat)
+![Stars](https://img.shields.io/github/stars/yoshinari-nomura/ptouch?style=flat) ![Last commit](https://img.shields.io/github/last-commit/yoshinari-nomura/ptouch?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [yoshinari-nomura/ptouch](https://github.com/yoshinari-nomura/ptouch)
 
@@ -170,7 +174,7 @@ Brother P-touch label printer utility.
 
 Rust implementation of a Brother P-touch driver.
 
-![Stars](https://img.shields.io/github/stars/vowstar/ptouch-rs?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vowstar/ptouch-rs?style=flat)
+![Stars](https://img.shields.io/github/stars/vowstar/ptouch-rs?style=flat) ![Last commit](https://img.shields.io/github/last-commit/vowstar/ptouch-rs?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [vowstar/ptouch-rs](https://github.com/vowstar/ptouch-rs)
 
@@ -194,7 +198,7 @@ Label server for the Brother QL-800.
 
 Go-based MCP server for Brother P-touch label makers.
 
-![Stars](https://img.shields.io/github/stars/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat)
+![Stars](https://img.shields.io/github/stars/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [JeremyProffitt/go-mcp-ptouch-label-maker](https://github.com/JeremyProffitt/go-mcp-ptouch-label-maker)
 
@@ -202,7 +206,7 @@ Go-based MCP server for Brother P-touch label makers.
 
 Brother QL driver/utility.
 
-![Stars](https://img.shields.io/github/stars/kurtinge/brotherql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/kurtinge/brotherql?style=flat)
+![Stars](https://img.shields.io/github/stars/kurtinge/brotherql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/kurtinge/brotherql?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [kurtinge/brotherql](https://github.com/kurtinge/brotherql)
 
@@ -210,7 +214,7 @@ Brother QL driver/utility.
 
 Home Assistant integration for Brother QL printers.
 
-![Stars](https://img.shields.io/github/stars/jzucker2/ha-brother-ql-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jzucker2/ha-brother-ql-printer?style=flat)
+![Stars](https://img.shields.io/github/stars/jzucker2/ha-brother-ql-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jzucker2/ha-brother-ql-printer?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [jzucker2/ha-brother-ql-printer](https://github.com/jzucker2/ha-brother-ql-printer)
 
@@ -218,7 +222,7 @@ Home Assistant integration for Brother QL printers.
 
 Brother QL driver / library fork.
 
-![Stars](https://img.shields.io/github/stars/thermal-label/brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/thermal-label/brother-ql?style=flat)
+![Stars](https://img.shields.io/github/stars/thermal-label/brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/thermal-label/brother-ql?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [thermal-label/brother-ql](https://github.com/thermal-label/brother-ql)
 
@@ -226,7 +230,7 @@ Brother QL driver / library fork.
 
 Node.js library for Brother QL printers.
 
-![Stars](https://img.shields.io/github/stars/berskde/node-brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/berskde/node-brother-ql?style=flat)
+![Stars](https://img.shields.io/github/stars/berskde/node-brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/berskde/node-brother-ql?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [berskde/node-brother-ql](https://github.com/berskde/node-brother-ql)
 
@@ -234,7 +238,7 @@ Node.js library for Brother QL printers.
 
 Brother QL printer driver.
 
-![Stars](https://img.shields.io/github/stars/BRA1L0R/ql-driver?style=flat) ![Last commit](https://img.shields.io/github/last-commit/BRA1L0R/ql-driver?style=flat)
+![Stars](https://img.shields.io/github/stars/BRA1L0R/ql-driver?style=flat) ![Last commit](https://img.shields.io/github/last-commit/BRA1L0R/ql-driver?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [BRA1L0R/ql-driver](https://github.com/BRA1L0R/ql-driver)
 
@@ -242,7 +246,7 @@ Brother QL printer driver.
 
 Brother P-touch print utility (fork).
 
-![Stars](https://img.shields.io/github/stars/e-control-systems/ptouch-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/e-control-systems/ptouch-print?style=flat)
+![Stars](https://img.shields.io/github/stars/e-control-systems/ptouch-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/e-control-systems/ptouch-print?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [e-control-systems/ptouch-print](https://github.com/e-control-systems/ptouch-print)
 
@@ -258,7 +262,7 @@ Brother label printing utility.
 
 Python toolkit for Brother P-touch label printers.
 
-![Stars](https://img.shields.io/github/stars/SunboX/labelprinterkit?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SunboX/labelprinterkit?style=flat)
+![Stars](https://img.shields.io/github/stars/SunboX/labelprinterkit?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SunboX/labelprinterkit?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [SunboX/labelprinterkit](https://github.com/SunboX/labelprinterkit)
 
@@ -266,7 +270,7 @@ Python toolkit for Brother P-touch label printers.
 
 Brother P-touch label maker utility.
 
-![Stars](https://img.shields.io/github/stars/danhoban/ptouch-labelmaker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danhoban/ptouch-labelmaker?style=flat)
+![Stars](https://img.shields.io/github/stars/danhoban/ptouch-labelmaker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danhoban/ptouch-labelmaker?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [danhoban/ptouch-labelmaker](https://github.com/danhoban/ptouch-labelmaker)
 
@@ -274,7 +278,7 @@ Brother P-touch label maker utility.
 
 GUI for printing labels on the Brother P-Touch Cube (PT-P710BT) — Ubuntu/KDE, wraps ptouch-print.
 
-![Stars](https://img.shields.io/github/stars/danielrosehill/PT-P710BT-Label-GUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/PT-P710BT-Label-GUI?style=flat)
+![Stars](https://img.shields.io/github/stars/danielrosehill/PT-P710BT-Label-GUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/PT-P710BT-Label-GUI?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [danielrosehill/PT-P710BT-Label-GUI](https://github.com/danielrosehill/PT-P710BT-Label-GUI)
 
@@ -290,7 +294,7 @@ Modern Python library for Brother QL label printers (QL-810w to QL-1060N) — re
 
 Converter between PNGs and print data for Brother P-touch label printers.
 
-![Stars](https://img.shields.io/github/stars/RavuAlHemio/ptouch-data?style=flat) ![Last commit](https://img.shields.io/github/last-commit/RavuAlHemio/ptouch-data?style=flat)
+![Stars](https://img.shields.io/github/stars/RavuAlHemio/ptouch-data?style=flat) ![Last commit](https://img.shields.io/github/last-commit/RavuAlHemio/ptouch-data?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [RavuAlHemio/ptouch-data](https://github.com/RavuAlHemio/ptouch-data)
 
@@ -298,7 +302,7 @@ Converter between PNGs and print data for Brother P-touch label printers.
 
 WebApp to control a Brother P-Touch label printer.
 
-![Stars](https://img.shields.io/github/stars/the78mole/ptouch-webapp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/the78mole/ptouch-webapp?style=flat)
+![Stars](https://img.shields.io/github/stars/the78mole/ptouch-webapp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/the78mole/ptouch-webapp?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [the78mole/ptouch-webapp](https://github.com/the78mole/ptouch-webapp)
 
@@ -306,7 +310,7 @@ WebApp to control a Brother P-Touch label printer.
 
 Use a Brother P-touch over Bluetooth on Linux — print labels, read printer status, and generate print jobs without USB.
 
-![Stars](https://img.shields.io/github/stars/shyndman/ptouch-bt?style=flat) ![Last commit](https://img.shields.io/github/last-commit/shyndman/ptouch-bt?style=flat)
+![Stars](https://img.shields.io/github/stars/shyndman/ptouch-bt?style=flat) ![Last commit](https://img.shields.io/github/last-commit/shyndman/ptouch-bt?style=flat) ![PT Series](https://img.shields.io/badge/Brother-PT_Series-1f6feb)
 
 [shyndman/ptouch-bt](https://github.com/shyndman/ptouch-bt)
 
@@ -322,7 +326,7 @@ Small Python library and CLI tool for printing labels to Brother printers.
 
 Self-hosted web interface and REST API for printing labels on a Brother QL-series printer from a Raspberry Pi.
 
-![Stars](https://img.shields.io/github/stars/pqpxo/swakes_print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pqpxo/swakes_print?style=flat)
+![Stars](https://img.shields.io/github/stars/pqpxo/swakes_print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pqpxo/swakes_print?style=flat) ![QL-700](https://img.shields.io/badge/Brother-QL--700-1f6feb) ![QL-780](https://img.shields.io/badge/Brother-QL--780-1f6feb)
 
 [pqpxo/swakes_print](https://github.com/pqpxo/swakes_print)
 
