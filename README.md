@@ -2,7 +2,7 @@
 
 A curated index of open-source utilities, drivers, libraries, and bridges for label printers — with a focus on **Linux compatibility**.
 
-**Snapshot:** 2026-05-18
+**Snapshot:** 2026-05-18 (updated 2026-05-18)
 
 > Each entry uses dynamic badges for ⭐ star count and last-updated date — the values refresh automatically when GitHub state changes.
 
@@ -269,6 +269,62 @@ Brother P-touch label maker utility.
 ![Stars](https://img.shields.io/github/stars/danhoban/ptouch-labelmaker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danhoban/ptouch-labelmaker?style=flat)
 
 [danhoban/ptouch-labelmaker](https://github.com/danhoban/ptouch-labelmaker)
+
+### PT-P710BT-Label-GUI
+
+GUI for printing labels on the Brother P-Touch Cube (PT-P710BT) — Ubuntu/KDE, wraps ptouch-print.
+
+![Stars](https://img.shields.io/github/stars/danielrosehill/PT-P710BT-Label-GUI?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danielrosehill/PT-P710BT-Label-GUI?style=flat)
+
+[danielrosehill/PT-P710BT-Label-GUI](https://github.com/danielrosehill/PT-P710BT-Label-GUI)
+
+### brother_ql (luxardolabs)
+
+Modern Python library for Brother QL label printers (QL-810w to QL-1060N) — refactored fork of pklaus/brother_ql with type hints and enum-based API.
+
+![Stars](https://img.shields.io/github/stars/luxardolabs/brother_ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/luxardolabs/brother_ql?style=flat)
+
+[luxardolabs/brother_ql](https://github.com/luxardolabs/brother_ql)
+
+### ptouch-data
+
+Converter between PNGs and print data for Brother P-touch label printers.
+
+![Stars](https://img.shields.io/github/stars/RavuAlHemio/ptouch-data?style=flat) ![Last commit](https://img.shields.io/github/last-commit/RavuAlHemio/ptouch-data?style=flat)
+
+[RavuAlHemio/ptouch-data](https://github.com/RavuAlHemio/ptouch-data)
+
+### ptouch-webapp
+
+WebApp to control a Brother P-Touch label printer.
+
+![Stars](https://img.shields.io/github/stars/the78mole/ptouch-webapp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/the78mole/ptouch-webapp?style=flat)
+
+[the78mole/ptouch-webapp](https://github.com/the78mole/ptouch-webapp)
+
+### ptouch-bt
+
+Use a Brother P-touch over Bluetooth on Linux — print labels, read printer status, and generate print jobs without USB.
+
+![Stars](https://img.shields.io/github/stars/shyndman/ptouch-bt?style=flat) ![Last commit](https://img.shields.io/github/last-commit/shyndman/ptouch-bt?style=flat)
+
+[shyndman/ptouch-bt](https://github.com/shyndman/ptouch-bt)
+
+### pybrother
+
+Small Python library and CLI tool for printing labels to Brother printers.
+
+![Stars](https://img.shields.io/github/stars/miracle2k/pybrother?style=flat) ![Last commit](https://img.shields.io/github/last-commit/miracle2k/pybrother?style=flat)
+
+[miracle2k/pybrother](https://github.com/miracle2k/pybrother)
+
+### swakes_print
+
+Self-hosted web interface and REST API for printing labels on a Brother QL-series printer from a Raspberry Pi.
+
+![Stars](https://img.shields.io/github/stars/pqpxo/swakes_print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/pqpxo/swakes_print?style=flat)
+
+[pqpxo/swakes_print](https://github.com/pqpxo/swakes_print)
 
 ---
 
