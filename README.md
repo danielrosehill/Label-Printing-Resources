@@ -174,6 +174,102 @@ Rust implementation of a Brother P-touch driver.
 
 [vowstar/ptouch-rs](https://github.com/vowstar/ptouch-rs)
 
+### brother8100w-linux
+
+Linux support / driver for the Brother QL-8100W label printer.
+
+![Stars](https://img.shields.io/github/stars/koptional-org/brother8100w-linux?style=flat) ![Last commit](https://img.shields.io/github/last-commit/koptional-org/brother8100w-linux?style=flat)
+
+[koptional-org/brother8100w-linux](https://github.com/koptional-org/brother8100w-linux)
+
+### brother-ql800-label-server
+
+Label server for the Brother QL-800.
+
+![Stars](https://img.shields.io/github/stars/shay-mintzer/brother-ql800-label-server?style=flat) ![Last commit](https://img.shields.io/github/last-commit/shay-mintzer/brother-ql800-label-server?style=flat)
+
+[shay-mintzer/brother-ql800-label-server](https://github.com/shay-mintzer/brother-ql800-label-server)
+
+### go-mcp-ptouch-label-maker
+
+Go-based MCP server for Brother P-touch label makers.
+
+![Stars](https://img.shields.io/github/stars/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/JeremyProffitt/go-mcp-ptouch-label-maker?style=flat)
+
+[JeremyProffitt/go-mcp-ptouch-label-maker](https://github.com/JeremyProffitt/go-mcp-ptouch-label-maker)
+
+### brotherql (kurtinge)
+
+Brother QL driver/utility.
+
+![Stars](https://img.shields.io/github/stars/kurtinge/brotherql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/kurtinge/brotherql?style=flat)
+
+[kurtinge/brotherql](https://github.com/kurtinge/brotherql)
+
+### ha-brother-ql-printer
+
+Home Assistant integration for Brother QL printers.
+
+![Stars](https://img.shields.io/github/stars/jzucker2/ha-brother-ql-printer?style=flat) ![Last commit](https://img.shields.io/github/last-commit/jzucker2/ha-brother-ql-printer?style=flat)
+
+[jzucker2/ha-brother-ql-printer](https://github.com/jzucker2/ha-brother-ql-printer)
+
+### brother-ql (thermal-label)
+
+Brother QL driver / library fork.
+
+![Stars](https://img.shields.io/github/stars/thermal-label/brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/thermal-label/brother-ql?style=flat)
+
+[thermal-label/brother-ql](https://github.com/thermal-label/brother-ql)
+
+### node-brother-ql
+
+Node.js library for Brother QL printers.
+
+![Stars](https://img.shields.io/github/stars/berskde/node-brother-ql?style=flat) ![Last commit](https://img.shields.io/github/last-commit/berskde/node-brother-ql?style=flat)
+
+[berskde/node-brother-ql](https://github.com/berskde/node-brother-ql)
+
+### ql-driver
+
+Brother QL printer driver.
+
+![Stars](https://img.shields.io/github/stars/BRA1L0R/ql-driver?style=flat) ![Last commit](https://img.shields.io/github/last-commit/BRA1L0R/ql-driver?style=flat)
+
+[BRA1L0R/ql-driver](https://github.com/BRA1L0R/ql-driver)
+
+### ptouch-print (e-control-systems)
+
+Brother P-touch print utility (fork).
+
+![Stars](https://img.shields.io/github/stars/e-control-systems/ptouch-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/e-control-systems/ptouch-print?style=flat)
+
+[e-control-systems/ptouch-print](https://github.com/e-control-systems/ptouch-print)
+
+### ohbrother
+
+Brother label printing utility.
+
+![Stars](https://img.shields.io/github/stars/smcnultyos/ohbrother?style=flat) ![Last commit](https://img.shields.io/github/last-commit/smcnultyos/ohbrother?style=flat)
+
+[smcnultyos/ohbrother](https://github.com/smcnultyos/ohbrother)
+
+### labelprinterkit
+
+Python toolkit for Brother P-touch label printers.
+
+![Stars](https://img.shields.io/github/stars/SunboX/labelprinterkit?style=flat) ![Last commit](https://img.shields.io/github/last-commit/SunboX/labelprinterkit?style=flat)
+
+[SunboX/labelprinterkit](https://github.com/SunboX/labelprinterkit)
+
+### ptouch-labelmaker
+
+Brother P-touch label maker utility.
+
+![Stars](https://img.shields.io/github/stars/danhoban/ptouch-labelmaker?style=flat) ![Last commit](https://img.shields.io/github/last-commit/danhoban/ptouch-labelmaker?style=flat)
+
+[danhoban/ptouch-labelmaker](https://github.com/danhoban/ptouch-labelmaker)
+
 ---
 
 ## Niimbot
@@ -354,6 +450,14 @@ Convert DHL shipping labels between formats for label printers.
 
 [manfred-mueller/DHLabel](https://github.com/manfred-mueller/DHLabel)
 
+### image-to-label
+
+Convert images to label-printer-ready formats.
+
+![Stars](https://img.shields.io/github/stars/Shugir/image-to-label?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Shugir/image-to-label?style=flat)
+
+[Shugir/image-to-label](https://github.com/Shugir/image-to-label)
+
 ---
 
 ## Label Design / General
@@ -389,6 +493,54 @@ Label design / printing application.
 ![Stars](https://img.shields.io/github/stars/Privatehive/pLabels?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Privatehive/pLabels?style=flat)
 
 [Privatehive/pLabels](https://github.com/Privatehive/pLabels)
+
+### mhe-qrprinter
+
+QR code label printer utility.
+
+![Stars](https://img.shields.io/github/stars/maxrbrook/mhe-qrprinter?style=flat) ![Last commit](https://img.shields.io/github/last-commit/maxrbrook/mhe-qrprinter?style=flat)
+
+[maxrbrook/mhe-qrprinter](https://github.com/maxrbrook/mhe-qrprinter)
+
+### label-print
+
+Label printing tool.
+
+![Stars](https://img.shields.io/github/stars/Ardelean-Calin/label-print?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Ardelean-Calin/label-print?style=flat)
+
+[Ardelean-Calin/label-print](https://github.com/Ardelean-Calin/label-print)
+
+### CustomLabelManager
+
+Custom label management application.
+
+![Stars](https://img.shields.io/github/stars/Jest0pher/CustomLabelManager?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Jest0pher/CustomLabelManager?style=flat)
+
+[Jest0pher/CustomLabelManager](https://github.com/Jest0pher/CustomLabelManager)
+
+### LabelScriber
+
+Label design / generation utility.
+
+![Stars](https://img.shields.io/github/stars/ressu/LabelScriber?style=flat) ![Last commit](https://img.shields.io/github/last-commit/ressu/LabelScriber?style=flat)
+
+[ressu/LabelScriber](https://github.com/ressu/LabelScriber)
+
+### labelsis
+
+Label printing / management tool.
+
+![Stars](https://img.shields.io/github/stars/aalarchiv/labelsis?style=flat) ![Last commit](https://img.shields.io/github/last-commit/aalarchiv/labelsis?style=flat)
+
+[aalarchiv/labelsis](https://github.com/aalarchiv/labelsis)
+
+### nfcprint
+
+NFC tag / label printing utility.
+
+![Stars](https://img.shields.io/github/stars/LeineLab/nfcprint?style=flat) ![Last commit](https://img.shields.io/github/last-commit/LeineLab/nfcprint?style=flat)
+
+[LeineLab/nfcprint](https://github.com/LeineLab/nfcprint)
 
 ---
 
