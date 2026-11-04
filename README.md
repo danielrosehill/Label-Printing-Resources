@@ -2,7 +2,7 @@
 
 A curated index of open-source utilities, drivers, libraries, and bridges for label printers — with a focus on **Linux compatibility**.
 
-**Snapshot:** 2026-05-18 (updated 2026-05-18)
+**Snapshot:** 2026-05-18 (updated 2026-11-04)
 
 > Each entry uses dynamic badges for ⭐ star count and last-updated date — the values refresh automatically when GitHub state changes.
 
@@ -601,6 +601,14 @@ NFC tag / label printing utility.
 ![Stars](https://img.shields.io/github/stars/LeineLab/nfcprint?style=flat) ![Last commit](https://img.shields.io/github/last-commit/LeineLab/nfcprint?style=flat)
 
 [LeineLab/nfcprint](https://github.com/LeineLab/nfcprint)
+
+### Web Label Editor
+
+Browser-based label designer for DYMO LabelWriter and Brother P-touch / QL printers, printing straight over WebUSB, with CSV batches, a true-size preview and a print-server mode for sharing a printer from a Raspberry Pi (Zebra and Rollo experimental).
+
+![Stars](https://img.shields.io/github/stars/mofosyne/web-label-editor?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mofosyne/web-label-editor?style=flat)
+
+[mofosyne/web-label-editor](https://github.com/mofosyne/web-label-editor)
 
 ---
 
